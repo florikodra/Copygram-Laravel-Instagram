@@ -1,0 +1,142 @@
+        body{
+        /* padding-top:4.2rem;
+		padding-bottom:4.2rem; */
+		background:rgba(236, 236, 236, 0.76);
+        }
+        a{
+         text-decoration:none !important;
+         }
+         h1,h2,h3{
+         font-family: 'Kaushan Script', cursive;
+         }
+          .myform{
+		position: relative;
+		display: -ms-flexbox;
+		display: flex;
+		padding: 20px 60px 20px 60px;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		width: 100%;
+		pointer-events: auto;
+		background-color: #fff;
+		background-clip: padding-box;
+		border: 1px solid rgba(0,0,0,.2);
+		outline: 0;
+        max-width: 500px;
+        
+         }
+         
+         .tx-tfm{
+         text-transform:uppercase;
+         }
+     
+        
+         .login-or {
+         position: relative;
+         color: #aaa;
+         margin-top: 10px;
+         margin-bottom: 10px;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         }
+         .span-or {
+         display: block;
+         position: absolute;
+         left: 50%;
+         top: -2px;
+         margin-left: -25px;
+         background-color: #fff;
+         width: 50px;
+         text-align: center;
+         }
+         .hr-or {
+         height: 1px;
+         margin-top: 0px !important;
+         margin-bottom: 0px !important;
+         }
+         .google {
+         color:#666;
+         width:100%;
+         height:40px;
+         text-align:center;
+         outline:none;
+         border: 1px solid lightgrey;
+         }
+          form .error {
+         color: #ff0000;
+         }
+
+         #first{
+            padding-top:4.2rem;
+            padding-bottom:4.2rem;
+         }
+
+         .app-name{
+             text-align: center;
+         }
+
+         .icons-top a{
+             margin-left: 10px;
+             color: rgb(94, 94, 94);
+         }
+         .search-form{
+             width: 300px;
+             margin: auto;
+         }
+         .user-dropdown{
+             width: 260px;
+         }
+         .user-dropdown a{
+            padding-top: 0px;
+            padding-bottom: 0px;
+        }
+        .container, .tab-pane{
+            margin-top: 30px;
+        }
+        .username{
+            font-family: "Lato Light";
+        }
+        .space-nav{
+           width: 25%;
+        }
+        ul{
+            border-top: 1px solid grey;
+            margin-top: 40px;
+            text-align: center;
+           
+          
+        }
+        ul a{
+            color:  rgb(94, 94, 94);
+        }
+
+        table td{
+            padding-right: 20px;
+        }
+        .post{
+            width: 100%;
+            height: 260px;
+            padding: 0px;
+            margin: 30px;
+            border-radius: 20px;
+        }
+        .post img{
+            object-fit: cover;
+            width: 100%;
+            height: 260px;
+            border-radius: 20px;
+        }
+        .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+            /* color: #495057;
+            background-color: #fff; */
+            font-family: "Lato Light";
+            font-size: 16px;
+            background-color: #d6d6d6;
+
+        }
+
+        .btn-verify{
+            background-color: rgb(216, 216, 216);
+        }
+        
+        
